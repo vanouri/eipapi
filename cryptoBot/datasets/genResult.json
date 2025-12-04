@@ -1,0 +1,17 @@
+[
+    {
+        "indicator": [
+            [["atr", 2, ">", "200", 5],["dochiant_low_5" ,15, "<", "dochiant_low_5",20], ["dochiant_low_5" ,0, ">", "dochiant_low_5",10]],
+            [["atr", 2, ">", "200", 5],["dochiant_low_5" ,15, ">", "dochiant_low_5",20], ["dochiant_low_5" ,0, "<", "dochiant_low_5",10]]
+        ],
+        "isBellow": false
+    },
+    {
+        "indicator": [
+            [["rsi" ,0, ">", "80",0]],
+            [["rsi" ,0, "<", "10",0]]
+        ],
+        "isBellow": true
+    }
+ 
+]

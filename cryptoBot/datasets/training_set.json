@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Stock - test ( scalp ) ",
+        "columns_list": [
+            "ema",
+            "dochiant_low_5",
+            "dochiant_up_5",
+            "dochiant_mid_5",
+            "dochiant_low",
+            "dochiant_up",
+            "dochiant_mid",
+            "obv",
+            "atr",
+            "rsi"
+        ],
+        "status": false,
+        "isBellow": true
+    }
+]

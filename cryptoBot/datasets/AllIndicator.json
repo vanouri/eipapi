@@ -1,0 +1,581 @@
+{
+    "Open": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "High": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "Low": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "Close": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "Volume": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Volume"
+        ]
+    },
+    "ma": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "ema": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "dema": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "kama": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "kama"
+        ]
+    },
+    "sma": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "dochiant_low": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "dochiant_up": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "dochiant_mid": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "cci": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "cci"
+        ]
+    },
+    "apo": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "apo"
+        ]
+    },
+    "bop": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "bop"
+        ]
+    },
+    "macd": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "macd"
+        ]
+    },
+    "mfi": {
+        "numberRange": {
+            "hasRange": true,
+            "min": 0,
+            "max": 100
+        },
+        "comparativeRange": [
+            "mfi"
+        ]
+    },
+    "mom": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "mom"
+        ]
+    },
+    "rsi": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "rsi"
+        ]
+    },
+    "ad": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "ad"
+        ]
+    },
+    "adosc": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "adosc"
+        ]
+    },
+    "obv": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "obv"
+        ]
+    },
+    "atr": {
+        "numberRange": {
+            "hasRange": true,
+            "min": 0,
+            "max": 1000
+        },
+        "comparativeRange": [
+            "atr"
+        ]
+    },
+    "Stock2": {
+        "numberRange": {
+            "hasRange": true,
+            "min": 0,
+            "max": 1
+        },
+        "comparativeRange": [
+            "Stock2",
+            "Stock21"
+        ]
+    },
+    "Stock21": {
+        "numberRange": {
+            "hasRange": true,
+            "min": 0,
+            "max": 1
+        },
+        "comparativeRange": [
+            "Stock2",
+            "Stock21"
+        ]
+    },
+    "dochiant_low_5": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "dochiant_up_5": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "dochiant_mid_5": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "Stock_fast_aroon": {
+        "numberRange": {
+            "hasRange": true,
+            "min": 0,
+            "max": 1
+        },
+        "comparativeRange": [
+            "Stock_fast_aroon",
+            "Stock_slow_aroon"
+        ]
+    },
+    "Stock_slow_aroon": {
+        "numberRange": {
+            "hasRange": true,
+            "min": 0,
+            "max": 1
+        },
+        "comparativeRange": [
+            "Stock_fast_aroon",
+            "Stock_slow_aroon"
+        ]
+    },
+    "sma_aroon": {
+        "numberRange": {
+            "hasRange": false,
+            "min": 0,
+            "max": 0
+        },
+        "comparativeRange": [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            "ma",
+            "sma",
+            "ema",
+            "dema",
+            "dochiant_low",
+            "dochiant_mid",
+            "dochiant_up",
+            "dochiant_low_5",
+            "dochiant_mid_5",
+            "dochiant_up_5",
+            "sma_aroon"
+        ]
+    },
+    "aroon_up": {
+        "numberRange": {
+            "hasRange": true,
+            "min": 0,
+            "max": 100
+        },
+        "comparativeRange": [
+            "aroon_up",
+            "aroon_down"
+        ]
+    },
+    "aroon_down": {
+        "numberRange": {
+            "hasRange": true,
+            "min": 0,
+            "max": 100
+        },
+        "comparativeRange": [
+            "aroon_up",
+            "aroon_down"
+        ]
+    },
+    "Wave_3": {
+        "numberRange": {
+            "hasRange": true,
+            "min": 0,
+            "max": 1
+        },
+        "comparativeRange": [
+            "Wave_3",
+            "Wave_5"
+
+        ]
+    },
+    "Wave_5": {
+        "numberRange": {
+            "hasRange": true,
+            "min": 0,
+            "max": 1
+        },
+        "comparativeRange": [
+            "Wave_3",
+            "Wave_5"
+        ]
+    }
+}

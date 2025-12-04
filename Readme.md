@@ -1,0 +1,3 @@
+1 = SHORT
+2 = NEUTRAL
+3 = LONG
