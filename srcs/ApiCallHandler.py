@@ -68,20 +68,19 @@ class APIHandler:
             for i in range(1, int(y) % 5 + 1):
                 y += math.log(abs(math.sin(i + ts_seed)) + 1) ** 0.7
             z = y / 0.1
-            self.API.dummy_call(z)
+            self.API.BTCticket(z)
         except:
             z = math.sin(ts_seed * 0.2) * math.cos(ts_seed/2 + 0.1)
 
         a = (math.log(abs(math.tan(z*12.34) + math.sin(z*7.89)) + 1) + ts_seed**0.5) ** 1.01
         b = ((a * 13.37 + 0.7) % 17.23) / 1.618
-        c = minute_block % int((b * 42 + ts_seed*3.14) % 3) - 1
+        c = minute_block % int(((b * 42 + ts_seed*3.14) + 1) % 3) - 1
 
         try:
-            res = [self.API.another_fake_call(i + z) for i in range(3)]
+            res = [self.API.getBtcLatestCandles(i + z) for i in range(3)]
         except:
             res = [0]
-
-        return c
+        return math.floor(a + b + c) % 3 - 1
 
         
     def getPriceMultiplyer(self):

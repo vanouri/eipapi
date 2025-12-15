@@ -19,3 +19,17 @@ def prediction():
     api_handler = APIHandler()
     
     return {"prediction": api_handler.getPrediction()}
+
+@app.get("/ref")
+def reference():
+    ref = {
+        "-1": "Short Position",
+        "0": "No Position",
+        "1": "Long Position"
+    }
+    return {"status": "API is running", "reference": ref}
+
+@app.get("/")
+def root():
+    routes = [route.path for route in app.routes]
+    return {"available_routes": routes}
