@@ -1,4 +1,5 @@
-
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/1/badge)](https://bestpractices.coreinfrastructure.org/projects/1)
+[![License](https://img.shields.io/:license-apache-blue.svg)](https://badges.mit-mit.org)
 
 # 📈 P2P Market Prediction API
 
