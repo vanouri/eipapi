@@ -1,6 +1,6 @@
 # 📈 P2P Market Prediction API
 
-A clean, open-source API providing real-time market sentiment signals. This service processes public P2P (Peer-to-Peer) indicators to generate actionable trading bias: **Long**, **Short**, or **Neutral**.
+A clean, open-source API providing real-time market sentiment signals. This service processes public P2P (Pear-to-Pear) indicators to generate actionable trading bias: **Long**, **Short**, or **Neutral**.
 
 ## 🌐 Public Endpoint
 
