@@ -17,7 +17,7 @@ By utilizing this API, Ye-jin was able to outsource the heavy lifting of indicat
 
 
 ### 📖 The Story of Baptiste: From Testing to Strategy
-<img src="https://media.licdn.com/dms/image/v2/D4E35AQGyxZFFZJ9Elg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1726890975488?e=1766685600&v=beta&t=xNVWM8VcpVOD39LJZjX7AtYR4_FXtJ_Xl04gZkX1N4Q" style="width: 250px">
+<img src="https://avatars.githubusercontent.com/u/86067803?v=4" style="width: 250px">
 Baptiste was in the process of developing his first automated trading bot. Like many developers, his biggest hurdle was the fear of testing an unproven implementation against live market volatility.
 
 By integrating this API, Baptiste utilized the **public P2P indicators** as a safety filter. This allowed him to validate his connection to trading platforms and refine his execution logic without the high risk of unguided entries. By strictly following the `-1/0/1` signals during his beta phase, he was able to:
