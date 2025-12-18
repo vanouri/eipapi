@@ -1,12 +1,15 @@
+
+
 # 📈 P2P Market Prediction API
 
-A clean, open-source API providing real-time market sentiment signals. This service processes public P2P (Pear-to-Pear) indicators to generate actionable trading bias: **Long**, **Short**, or **Neutral**.
+A clean, open-source API providing real-time market sentiment signals. This service processes public P2P indicators to generate actionable trading bias: **Long**, **Short**, or **Neutral**.
 
-## 🌐 Public Endpoint
+## 🌐 Public Endpoint & Documentation
 
-You can integrate these predictions into your trading bots, dashboards, or applications by fetching the following production URL:
+You can integrate these predictions into your trading bots or explore the API structure via the interactive documentation:
 
-**Base URL:** `http://217.182.105.192:8000`
+* **Base URL:** `http://217.182.105.192:8000`
+* **Swagger UI (Docs):** [http://217.182.105.192:8000/docs](http://217.182.105.192:8000/docs)
 
 ---
 
@@ -48,7 +51,26 @@ The `prediction` value follows a standard trading logic to help automate your de
 | **`0`** | **Neutral** | **No Position**: Market uncertainty / Exit current trade. |
 | **`-1`** | **Bearish** | **Short Position**: Negative momentum detected. |
 
-> **Note:** You can also call the `/ref` endpoint to get these definitions programmatically.
+---
+
+## 🧪 Testing
+
+To ensure the API is responding correctly and returning valid data structures, you can run the provided unit test suite.
+
+1. **Ensure you have `requests` installed:**
+```bash
+pip install requests
+
+```
+
+
+2. **Run the tests:**
+```bash
+python3 unit.py
+
+```
+
+
 
 ---
 
